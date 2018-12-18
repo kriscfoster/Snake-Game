@@ -84,5 +84,4 @@ function Snake() {
       }
     }
   }
-
 }
